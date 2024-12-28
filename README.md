@@ -1,1 +1,1 @@
-# Networks. LW2. STP-Static_Routes-Netbox
+# Cisco Packet Tracer. Основы работы, конфигурация уже готовой топологии. Статическая маршрутизация. STP
